@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/preview-1x/08/82/software-developer-character-programmer-vector-26310882.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habeebopeyemi&label=Profile%20views&color=0e75b6&style=flat" alt="habeebopeyemi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habeebopeyemi" alt="habeebopeyemi" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Instagram app**
 
 - 💬 Ask me about **C, Javascript, Typescript, React, Nodejs, Express, MongoDB, AWS, Ruby**
