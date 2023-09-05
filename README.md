@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **opeyemihabeeb4@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1rj-CTgcfeo-ydKNaJmYg-2ygtdec7JHj7N1-j-WaUIQ/edit?usp=sharing](https://drive.google.com/file/d/1L79KdVvtyNsUPYdDXoP-nEi5A6L-Yc86/view?usp=sharing)](https://docs.google.com/document/d/1rj-CTgcfeo-ydKNaJmYg-2ygtdec7JHj7N1-j-WaUIQ/edit?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1L79KdVvtyNsUPYdDXoP-nEi5A6L-Yc86/view?usp=sharing)]
 
 - ⚡ Fun fact **I love to play football, ride bicycle, watch movie, read and learn about trending technologies.**
 
