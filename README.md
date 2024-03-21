@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/preview-1x/08/82/software-developer-character-programmer-vector-26310882.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habeebopeyemi&label=Profile%20views&color=0e75b6&style=flat" alt="habeebopeyemi" /> </p>
 
-- 🔭 I’m currently working on **Personal Instagram app**
+- 🔭 I’m currently working on **Fraud detection and reporting system using ASP.NET, ML.NET and Azure SQL database**
 
-- 💬 Ask me about **C, Javascript, Typescript, React, Nodejs, Express, MongoDB, AWS, Ruby**
+- 💬 Ask me about **C, Javascript, Typescript, React, Nodejs, Express, MongoDB, AWS, Ruby, C#, ASP.NET**
 
 - 📫 How to reach me **opeyemihabeeb4@gmail.com**
 
